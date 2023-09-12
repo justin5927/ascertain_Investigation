@@ -1,0 +1,7 @@
+# Folders for documents
+ASCERTAIN_Features/
+ASCERTAIN_Raw/
+SDMData/
+
+# .DSStore Files
+.DS_Store
