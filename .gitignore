@@ -5,3 +5,6 @@ SDMData/
 
 # .DSStore Files
 .DS_Store
+
+# Created Folders
+data/
