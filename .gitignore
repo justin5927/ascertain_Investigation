@@ -2,9 +2,14 @@
 ASCERTAIN_Features/
 ASCERTAIN_Raw/
 SDMData/
+Plotting/figures
 
 # .DSStore Files
 .DS_Store
 
 # Created Folders
 data/
+
+# images
+*.png
+*.jpg
